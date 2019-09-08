@@ -6,7 +6,7 @@
 #MidF {
   display: block;
   width:384px;
-  margin: 30px 30px 30px 30px;
+  margin: 30px auto;
 }
 
 p {
